@@ -312,6 +312,10 @@ The report includes one introduction page, three analytical dashboards, and one 
 
 ### 📌 Dashboard 1: Hospital Overview & Patient Demographics
 
+<img width="1396" height="791" alt="Screenshot 2026-11-08 181653" src="https://github.com/user-attachments/assets/fbd537d9-92ad-4cb1-8b92-6f91c385cecc" />
+
+<img width="1390" height="799" alt="Screenshot 2026-11-08 181712" src="https://github.com/user-attachments/assets/58b8aca5-a83f-4c0e-9ef7-bf1f24b8e2e0" />
+
 **Objective:** Understand the demographic composition of patient records and the distribution of medical conditions.
 
 **Key Performance Indicators:**
@@ -337,6 +341,8 @@ The report includes one introduction page, three analytical dashboards, and one 
 - Age
 
 ### 💰 Dashboard 2: Financial & Insurance Analysis
+<img width="1382" height="789" alt="Screenshot 2026-11-08 181730" src="https://github.com/user-attachments/assets/056b5cab-5b26-4532-9208-a8c52a165389" />
+
 
 **Objective:** Compare billing patterns across medical conditions, insurance providers, and admission categories.
 
@@ -364,6 +370,8 @@ The report includes one introduction page, three analytical dashboards, and one 
 - Age Group
 
 ### 📅 Dashboard 3: Patient Admission & Time Trends
+
+<img width="1375" height="782" alt="Screenshot 2026-11-08 181754" src="https://github.com/user-attachments/assets/34477d42-3a43-4c44-b355-5709da8408a1" />
 
 **Objective:** Analyze admission behavior and understand how admission volumes vary over time.
 
@@ -393,6 +401,7 @@ The report includes one introduction page, three analytical dashboards, and one 
 ### 📖 Supporting Pages
 
 **Project Overview:** Provides the project introduction, objectives, dataset summary, tools used, and interactive navigation to the analytical dashboards.
+<img width="1192" height="663" alt="Screenshot 2026-11-08 182019" src="https://github.com/user-attachments/assets/5564a6fa-5adb-4118-8967-92c0482a8d6b" />
 
 **Key Insights & Recommendations:** Summarizes the major analytical findings and proposed business recommendations.
 
